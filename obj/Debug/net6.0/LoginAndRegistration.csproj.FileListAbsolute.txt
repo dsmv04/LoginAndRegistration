@@ -1,0 +1,8 @@
+C:\Users\Dalton\Desktop\Bootcamp SONDA - Coding Dojo\Semana 8\Dia 2\LoginAndRegistration\obj\Debug\net6.0\LoginAndRegistration.csproj.AssemblyReference.cache
+C:\Users\Dalton\Desktop\Bootcamp SONDA - Coding Dojo\Semana 8\Dia 2\LoginAndRegistration\obj\Debug\net6.0\LoginAndRegistration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dalton\Desktop\Bootcamp SONDA - Coding Dojo\Semana 8\Dia 2\LoginAndRegistration\obj\Debug\net6.0\LoginAndRegistration.AssemblyInfoInputs.cache
+C:\Users\Dalton\Desktop\Bootcamp SONDA - Coding Dojo\Semana 8\Dia 2\LoginAndRegistration\obj\Debug\net6.0\LoginAndRegistration.AssemblyInfo.cs
+C:\Users\Dalton\Desktop\Bootcamp SONDA - Coding Dojo\Semana 8\Dia 2\LoginAndRegistration\obj\Debug\net6.0\LoginAndRegistration.csproj.CoreCompileInputs.cache
+C:\Users\Dalton\Desktop\Bootcamp SONDA - Coding Dojo\Semana 8\Dia 2\LoginAndRegistration\obj\Debug\net6.0\LoginAndRegistration.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Dalton\Desktop\Bootcamp SONDA - Coding Dojo\Semana 8\Dia 2\LoginAndRegistration\obj\Debug\net6.0\LoginAndRegistration.RazorAssemblyInfo.cache
+C:\Users\Dalton\Desktop\Bootcamp SONDA - Coding Dojo\Semana 8\Dia 2\LoginAndRegistration\obj\Debug\net6.0\LoginAndRegistration.RazorAssemblyInfo.cs
